@@ -1,4 +1,4 @@
-package ch.admin.fdea.hoduflu.ews.ssl;
+package com.microsoft.ssl;
 
 import java.io.IOException;
 import java.net.InetAddress;

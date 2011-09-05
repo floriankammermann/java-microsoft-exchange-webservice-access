@@ -1020,7 +1020,7 @@
   
   <wsdl:service name="ExchangeService">
   <wsdl:port name="ExchangeServicePort" binding="tns:ExchangeServiceBinding">
-    <soap:address location="https://webmail.evd.admin.ch/ews/exchange.asmx"/>
+    <soap:address location="https://host/ews/exchange.asmx"/>
   </wsdl:port>
   </wsdl:service>
 

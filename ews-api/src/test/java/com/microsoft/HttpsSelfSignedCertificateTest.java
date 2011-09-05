@@ -39,7 +39,7 @@ public class HttpsSelfSignedCertificateTest {
 		} 
 		
 		try { 
-		    URL url = new URL("https://webmail.evd.admin.ch/ews/exchange.asmx"); 
+		    URL url = new URL("https://host/ews/exchange.asmx"); 
 		} catch (MalformedURLException e) {
 		} 
 		

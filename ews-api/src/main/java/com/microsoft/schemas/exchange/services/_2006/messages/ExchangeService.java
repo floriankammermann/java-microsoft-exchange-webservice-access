@@ -15,7 +15,7 @@ import javax.xml.ws.Service;
  * 
  */
 @WebServiceClient(name = "ExchangeService", 
-                  wsdlLocation = "file:/C:/itpearls-src/hoduflu/trunk/exchange-service-client/src/wsdl/microsoft_exchange_2007.wsdl",
+                  wsdlLocation = "https://<host>/ews/Services.wsdl.wsdl",
                   targetNamespace = "http://schemas.microsoft.com/exchange/services/2006/messages") 
 public class ExchangeService extends Service {
 
@@ -26,11 +26,11 @@ public class ExchangeService extends Service {
     static {
         URL url = null;
         try {
-            url = new URL("file:/C:/itpearls-src/hoduflu/trunk/exchange-service-client/src/wsdl/microsoft_exchange_2007.wsdl");
+            url = new URL("https://<host>/ews/Services.wsdl.wsdl");
         } catch (MalformedURLException e) {
             java.util.logging.Logger.getLogger(ExchangeService.class.getName())
                 .log(java.util.logging.Level.INFO, 
-                     "Can not initialize the default wsdl from {0}", "file:/C:/itpearls-src/hoduflu/trunk/exchange-service-client/src/wsdl/microsoft_exchange_2007.wsdl");
+                     "Can not initialize the default wsdl from {0}", "https://<host>/ews/Services.wsdl.wsdl");
         }
         WSDL_LOCATION = url;
     }

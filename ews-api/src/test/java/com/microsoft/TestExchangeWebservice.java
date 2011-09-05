@@ -40,7 +40,7 @@ public class TestExchangeWebservice {
         } catch (Exception e) {
         }
 	
-		//ExchangeService esw = new ExchangeService(new URL("https://webmail.evd.admin.ch/ews/exchange.asmx?wsdl"));
+		//ExchangeService esw = new ExchangeService(new URL("https://host/ews/exchange.asmx?wsdl"));
 		ExchangeService esw = new ExchangeService();
 		
 	}

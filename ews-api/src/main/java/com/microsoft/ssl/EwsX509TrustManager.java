@@ -4,7 +4,7 @@
  * 
  * Defines the EwsX509TrustManager.java.
  **************************************************************************/
-package ch.admin.fdea.hoduflu.ews.ssl;
+package com.microsoft.ssl;
 
 /***
  * EwsX509TrustManager is used for SSL handshake.

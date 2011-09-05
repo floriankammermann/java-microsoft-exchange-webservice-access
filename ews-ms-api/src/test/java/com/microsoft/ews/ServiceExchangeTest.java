@@ -40,7 +40,7 @@ public class ServiceExchangeTest {
 		service.setUrl(new URI("http://localhost:8080/EWS/Exchange.asmx"));
 		
 		// set a proxy
-		// service.setWebProxy(new WebProxy("proxy.evd.admin.ch", 8080));
+		// service.setWebProxy(new WebProxy("host", 8080));
 
 		service.setTraceEnabled(true);
 
