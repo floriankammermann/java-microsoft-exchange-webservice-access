@@ -1,0 +1,18 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+	<soap:Header>
+		<ns3:RequestServerVersion
+			xmlns:ns3="http://schemas.microsoft.com/exchange/services/2006/types"
+			xmlns:ns2="http://schemas.microsoft.com/exchange/services/2006/messages"
+			Version="Exchange2007_SP1" />
+	</soap:Header>
+	<soap:Body>
+		<FindItem
+			xmlns="http://schemas.microsoft.com/exchange/services/2006/messages"
+			xmlns:ns2="http://schemas.microsoft.com/exchange/services/2006/types"
+			Traversal="Shallow">
+			<ItemShape>
+				<ns2:BaseShape>AllProperties</ns2:BaseShape>
+			</ItemShape>
+		</FindItem>
+	</soap:Body>
+</soap:Envelope>
