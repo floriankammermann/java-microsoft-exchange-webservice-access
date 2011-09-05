@@ -1,0 +1,3401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data
+END
+IGetObjectInstanceDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IGetObjectInstanceDelegate.java
+END
+MeetingTimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingTimeZone.java
+END
+PostItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PostItem.java
+END
+PhysicalAddressEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhysicalAddressEntry.java
+END
+ServiceObjectPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceObjectPropertyDefinition.java
+END
+DelegateFolderPermissionLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DelegateFolderPermissionLevel.java
+END
+GetUserSettingsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetUserSettingsRequest.java
+END
+MessageDisposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MessageDisposition.java
+END
+PhysicalAddressIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhysicalAddressIndex.java
+END
+RecurrencePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RecurrencePropertyDefinition.java
+END
+MoveCopyFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MoveCopyFolderResponse.java
+END
+SubscriptionErrorEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SubscriptionErrorEventArgs.java
+END
+ExtendedPropertyCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExtendedPropertyCollection.java
+END
+CreateResponseObjectRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateResponseObjectRequest.java
+END
+UpdateUserConfigurationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UpdateUserConfigurationRequest.java
+END
+HttpClientWebRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/HttpClientWebRequest.java
+END
+AccountIsLockedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AccountIsLockedException.java
+END
+GroupedFindItemsResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GroupedFindItemsResults.java
+END
+EmptyFolderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EmptyFolderRequest.java
+END
+ServiceObjectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceObjectInfo.java
+END
+UserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UserConfiguration.java
+END
+XMLNodeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/XMLNodeType.java
+END
+IPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IPredicate.java
+END
+GetEventsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetEventsRequest.java
+END
+DnsSrvRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DnsSrvRecord.java
+END
+DayOfTheWeek.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DayOfTheWeek.java
+END
+UpdateItemResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UpdateItemResponse.java
+END
+EwsServiceXmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsServiceXmlReader.java
+END
+EventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EventType.java
+END
+Change.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Change.java
+END
+CreateAttachmentRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateAttachmentRequest.java
+END
+DeclineMeetingInvitationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeclineMeetingInvitationMessage.java
+END
+GetRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetRequest.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Strings.java
+END
+GetDelegateResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetDelegateResponse.java
+END
+MailboxType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MailboxType.java
+END
+UnsubscribeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UnsubscribeRequest.java
+END
+ClientCertificateCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ClientCertificateCredentials.java
+END
+CopyItemRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CopyItemRequest.java
+END
+DnsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DnsException.java
+END
+IFunc.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IFunc.java
+END
+TaskStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TaskStatus.java
+END
+DeletedOccurrenceInfoCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeletedOccurrenceInfoCollection.java
+END
+SearchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SearchFilter.java
+END
+TraceFlags.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TraceFlags.java
+END
+ResolveNamesRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResolveNamesRequest.java
+END
+ISelfValidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ISelfValidate.java
+END
+UpdateInboxRulesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UpdateInboxRulesException.java
+END
+StreamingSubscriptionConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/StreamingSubscriptionConnection.java
+END
+DomainSettingError.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DomainSettingError.java
+END
+ILazyMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ILazyMember.java
+END
+IDateTimePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IDateTimePropertyDefinition.java
+END
+WindowsLiveCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/WindowsLiveCredentials.java
+END
+IComplexPropertyChangedDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IComplexPropertyChangedDelegate.java
+END
+ConversationSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConversationSchema.java
+END
+WebCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/WebCredentials.java
+END
+EmailAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EmailAddress.java
+END
+IFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IFunction.java
+END
+TaskDelegationState.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TaskDelegationState.java
+END
+EndDateRecurrenceRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EndDateRecurrenceRange.java
+END
+FolderPermissionCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderPermissionCollection.java
+END
+ExpandGroupRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExpandGroupRequest.java
+END
+AttendeeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AttendeeInfo.java
+END
+TimeZoneTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeZoneTransition.java
+END
+ViewBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ViewBase.java
+END
+FolderView.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderView.java
+END
+ICreateServiceObjectWithAttachmentParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ICreateServiceObjectWithAttachmentParam.java
+END
+ExpandGroupResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExpandGroupResponse.java
+END
+FolderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderWrapper.java
+END
+GetUserOofSettingsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetUserOofSettingsRequest.java
+END
+ServiceId.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceId.java
+END
+GetUserSettingsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetUserSettingsResponse.java
+END
+RelativeDayOfMonthTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RelativeDayOfMonthTransition.java
+END
+UnifiedMessaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UnifiedMessaging.java
+END
+MeetingRequestsDeliveryScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingRequestsDeliveryScope.java
+END
+PermissionScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PermissionScope.java
+END
+PostReplySchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PostReplySchema.java
+END
+EwsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsEnum.java
+END
+FolderPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderPermission.java
+END
+FindFolderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FindFolderRequest.java
+END
+EditorBrowsableState.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EditorBrowsableState.java
+END
+ServiceResponseCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceResponseCollection.java
+END
+MapiPropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MapiPropertyType.java
+END
+SendCancellationsMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SendCancellationsMode.java
+END
+BodyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/BodyType.java
+END
+ServiceResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceResult.java
+END
+HangingServiceRequestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/HangingServiceRequestBase.java
+END
+DayOfTheWeekIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DayOfTheWeekIndex.java
+END
+BoolPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/BoolPropertyDefinition.java
+END
+CreateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateRequest.java
+END
+GetItemRequestForLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetItemRequestForLoad.java
+END
+FileAsMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FileAsMapping.java
+END
+RuleError.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RuleError.java
+END
+PhoneCallId.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhoneCallId.java
+END
+NotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/NotSupportedException.java
+END
+ConversationId.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConversationId.java
+END
+ItemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemView.java
+END
+GetFolderRequestForLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetFolderRequestForLoad.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Contact.java
+END
+CalendarResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CalendarResponseMessage.java
+END
+AbsoluteMonthTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AbsoluteMonthTransition.java
+END
+HttpProxyCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/HttpProxyCredentials.java
+END
+AbstractItemIdWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AbstractItemIdWrapper.java
+END
+ICustomXmlUpdateSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ICustomXmlUpdateSerializer.java
+END
+RuleOperationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RuleOperationError.java
+END
+SetRuleOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SetRuleOperation.java
+END
+IdFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IdFormat.java
+END
+PhoneNumberDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhoneNumberDictionary.java
+END
+MoveCopyRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MoveCopyRequest.java
+END
+EmailMessageSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EmailMessageSchema.java
+END
+AttendeeAvailability.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AttendeeAvailability.java
+END
+GetEventsResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetEventsResults.java
+END
+AvailabilityOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AvailabilityOptions.java
+END
+Attachable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Attachable.java
+END
+FolderIdWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderIdWrapper.java
+END
+RuleErrorCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RuleErrorCollection.java
+END
+MoveItemRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MoveItemRequest.java
+END
+Importance.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Importance.java
+END
+StringList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/StringList.java
+END
+CancelMeetingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CancelMeetingMessage.java
+END
+ResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResponseMessage.java
+END
+IServiceObjectChangedDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IServiceObjectChangedDelegate.java
+END
+DeleteFolderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeleteFolderRequest.java
+END
+ServiceError.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceError.java
+END
+Folder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Folder.java
+END
+DeleteRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeleteRequest.java
+END
+ItemIdWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemIdWrapper.java
+END
+EwsServiceMultiResponseXmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsServiceMultiResponseXmlReader.java
+END
+UserConfigurationProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UserConfigurationProperties.java
+END
+GetStreamingEventsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetStreamingEventsRequest.java
+END
+SubscribeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SubscribeRequest.java
+END
+GetUserSettingsResponseCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetUserSettingsResponseCollection.java
+END
+ComparisonHelpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ComparisonHelpers.java
+END
+FolderTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderTraversal.java
+END
+AttendeeCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AttendeeCollection.java
+END
+XmlAttributeNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/XmlAttributeNames.java
+END
+GetRoomListsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetRoomListsResponse.java
+END
+RequiredServerVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RequiredServerVersion.java
+END
+ExpandGroupResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExpandGroupResults.java
+END
+GetUserConfigurationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetUserConfigurationRequest.java
+END
+ItemTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemTraversal.java
+END
+ICreateServiceObjectWithServiceParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ICreateServiceObjectWithServiceParam.java
+END
+TimeZoneTransitionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeZoneTransitionGroup.java
+END
+DnsRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DnsRecord.java
+END
+SendInvitationsMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SendInvitationsMode.java
+END
+DelegateManagementResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DelegateManagementResponse.java
+END
+UpdateFolderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UpdateFolderRequest.java
+END
+AffectedTaskOccurrence.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AffectedTaskOccurrence.java
+END
+SubscribeToStreamingNotificationsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SubscribeToStreamingNotificationsRequest.java
+END
+SearchFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SearchFolder.java
+END
+ServiceRequestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceRequestBase.java
+END
+GetRoomListsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetRoomListsRequest.java
+END
+InternetMessageHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/InternetMessageHeader.java
+END
+ConvertIdRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConvertIdRequest.java
+END
+ItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemAttachment.java
+END
+GetPhoneCallRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetPhoneCallRequest.java
+END
+ServiceErrorHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceErrorHandling.java
+END
+EditorBrowsable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EditorBrowsable.java
+END
+AggregateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AggregateType.java
+END
+DeleteAttachmentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeleteAttachmentException.java
+END
+DeleteAttachmentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeleteAttachmentResponse.java
+END
+PhysicalAddressKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhysicalAddressKey.java
+END
+CreateItemResponseBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateItemResponseBase.java
+END
+Param.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Param.java
+END
+PhoneCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhoneCall.java
+END
+GetInboxRulesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetInboxRulesResponse.java
+END
+DateTimePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DateTimePropertyDefinition.java
+END
+ItemId.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemId.java
+END
+ConvertIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConvertIdResponse.java
+END
+UserSettingName.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UserSettingName.java
+END
+ComparisonMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ComparisonMode.java
+END
+ResolveNamesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResolveNamesResponse.java
+END
+ContainedPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ContainedPropertyDefinition.java
+END
+GetEventsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetEventsResponse.java
+END
+ImAddressKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ImAddressKey.java
+END
+SearchFolderParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SearchFolderParameters.java
+END
+OofReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OofReply.java
+END
+MoveCopyItemResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MoveCopyItemResponse.java
+END
+ArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ArgumentException.java
+END
+WorkingHours.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/WorkingHours.java
+END
+EwsXmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsXmlReader.java
+END
+PhoneNumberEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhoneNumberEntry.java
+END
+CalendarView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CalendarView.java
+END
+PhoneCallState.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhoneCallState.java
+END
+GetItemRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetItemRequest.java
+END
+CreateFolderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateFolderRequest.java
+END
+RuleErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RuleErrorCode.java
+END
+FreeBusyViewType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FreeBusyViewType.java
+END
+GetUserOofSettingsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetUserOofSettingsResponse.java
+END
+RuleCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RuleCollection.java
+END
+HttpWebRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/HttpWebRequest.java
+END
+CalendarResponseMessageBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CalendarResponseMessageBase.java
+END
+FindConversationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FindConversationResponse.java
+END
+EffectiveRightsPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EffectiveRightsPropertyDefinition.java
+END
+AppointmentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AppointmentType.java
+END
+GetStreamingEventsResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetStreamingEventsResults.java
+END
+ImAddressDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ImAddressDictionary.java
+END
+ChangeCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ChangeCollection.java
+END
+AutodiscoverRemoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRemoteException.java
+END
+GetInboxRulesRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetInboxRulesRequest.java
+END
+TypedPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TypedPropertyDefinition.java
+END
+SoapFaultDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SoapFaultDetails.java
+END
+OofSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OofSettings.java
+END
+ResponseMessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResponseMessageType.java
+END
+PlayOnPhoneRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PlayOnPhoneRequest.java
+END
+DelegatePermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DelegatePermissions.java
+END
+PlayOnPhoneResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PlayOnPhoneResponse.java
+END
+DeleteRuleOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeleteRuleOperation.java
+END
+WebClientUrlCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/WebClientUrlCollection.java
+END
+ComplexProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ComplexProperty.java
+END
+EmailAddressEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EmailAddressEntry.java
+END
+WebProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/WebProxy.java
+END
+NameResolutionCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/NameResolutionCollection.java
+END
+Convert.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Convert.java
+END
+TimeSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeSpan.java
+END
+SendItemRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SendItemRequest.java
+END
+EwsX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsX509TrustManager.java
+END
+GetDomainSettingsResponseCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetDomainSettingsResponseCollection.java
+END
+SubscribeToPullNotificationsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SubscribeToPullNotificationsRequest.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Base64.java
+END
+ConflictResolutionMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConflictResolutionMode.java
+END
+ServiceObjectDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceObjectDefinition.java
+END
+Base64EncoderStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Base64EncoderStream.java
+END
+RemoveDelegateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RemoveDelegateRequest.java
+END
+PropertyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PropertyException.java
+END
+TimeZoneDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeZoneDefinition.java
+END
+NameResolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/NameResolution.java
+END
+PropertyDefinitionFlags.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PropertyDefinitionFlags.java
+END
+AbstractFolderIdWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AbstractFolderIdWrapper.java
+END
+GetItemResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetItemResponse.java
+END
+FindFoldersResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FindFoldersResults.java
+END
+MeetingRequestSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingRequestSchema.java
+END
+TaskSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TaskSchema.java
+END
+UniqueBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UniqueBody.java
+END
+ServiceVersionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceVersionException.java
+END
+DnsRecordType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DnsRecordType.java
+END
+ExchangeServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExchangeServerInfo.java
+END
+UserConfigurationDictionaryObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UserConfigurationDictionaryObjectType.java
+END
+TimeWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeWindow.java
+END
+RuleActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RuleActions.java
+END
+PropertyBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PropertyBag.java
+END
+NotificationEventArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/NotificationEventArgs.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Rule.java
+END
+ServiceObjectSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceObjectSchema.java
+END
+XmlNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/XmlNamespace.java
+END
+CreateFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateFolderResponse.java
+END
+ISearchStringProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ISearchStringProvider.java
+END
+OofState.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OofState.java
+END
+ComplexPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ComplexPropertyDefinition.java
+END
+NotificationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/NotificationEvent.java
+END
+CreateResponseObjectResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateResponseObjectResponse.java
+END
+AutodiscoverResponseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverResponseType.java
+END
+FolderId.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderId.java
+END
+SyncFolderItemsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SyncFolderItemsResponse.java
+END
+IOwnedProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IOwnedProperty.java
+END
+ServiceLocalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceLocalException.java
+END
+IndexedPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IndexedPropertyDefinition.java
+END
+IComplexPropertyChanged.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IComplexPropertyChanged.java
+END
+TimeChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeChange.java
+END
+OutlookConfigurationSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OutlookConfigurationSettings.java
+END
+GetDomainSettingsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetDomainSettingsResponse.java
+END
+AutodiscoverDnsClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverDnsClient.java
+END
+DelegateManagementRequestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DelegateManagementRequestBase.java
+END
+ContactSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ContactSchema.java
+END
+IPropertyBagChangedDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IPropertyBagChangedDelegate.java
+END
+OutlookProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OutlookProtocol.java
+END
+SearchFolderTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SearchFolderTraversal.java
+END
+ChangeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ChangeType.java
+END
+ItemIdCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemIdCollection.java
+END
+FileAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FileAttachment.java
+END
+ContactGroupSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ContactGroupSchema.java
+END
+AlternateMailbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AlternateMailbox.java
+END
+DayOfTheWeekCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DayOfTheWeekCollection.java
+END
+EwsJCIFSNTLMScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsJCIFSNTLMScheme.java
+END
+WSSecurityBasedCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/WSSecurityBasedCredentials.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Time.java
+END
+ItemEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemEvent.java
+END
+SuggestionQuality.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SuggestionQuality.java
+END
+DeleteUserConfigurationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeleteUserConfigurationRequest.java
+END
+MessageBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MessageBody.java
+END
+UpdateInboxRulesRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UpdateInboxRulesRequest.java
+END
+DelegateUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DelegateUser.java
+END
+CreateRuleOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateRuleOperation.java
+END
+RuleProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RuleProperty.java
+END
+MeetingMessageSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingMessageSchema.java
+END
+GetFolderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetFolderRequest.java
+END
+PushSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PushSubscription.java
+END
+FolderIdWrapperList.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderIdWrapperList.java
+END
+ConversationIndexedItemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConversationIndexedItemView.java
+END
+DoublePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DoublePropertyDefinition.java
+END
+FindRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FindRequest.java
+END
+IFunctionDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IFunctionDelegate.java
+END
+FolderSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderSchema.java
+END
+Recurrence.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Recurrence.java
+END
+ManagedFolderInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ManagedFolderInformation.java
+END
+NoEndRecurrenceRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/NoEndRecurrenceRange.java
+END
+GroupMemberCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GroupMemberCollection.java
+END
+AutodiscoverResponseCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverResponseCollection.java
+END
+AvailabilityData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AvailabilityData.java
+END
+MeetingResponseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingResponseType.java
+END
+UpdateInboxRulesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UpdateInboxRulesResponse.java
+END
+RuleOperationErrorCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RuleOperationErrorCollection.java
+END
+GroupMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GroupMember.java
+END
+AlternatePublicFolderId.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AlternatePublicFolderId.java
+END
+SendInvitationsOrCancellationsMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SendInvitationsOrCancellationsMode.java
+END
+ServiceObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceObjectType.java
+END
+PropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PropertyDefinition.java
+END
+ServiceXmlSerializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceXmlSerializationException.java
+END
+StreamingSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/StreamingSubscription.java
+END
+MapiTypeConverterMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MapiTypeConverterMapEntry.java
+END
+OutlookAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OutlookAccount.java
+END
+ConversationActionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConversationActionType.java
+END
+XmlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/XmlException.java
+END
+GetFolderRequestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetFolderRequestBase.java
+END
+ByteArrayPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ByteArrayPropertyDefinition.java
+END
+AutodiscoverRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java
+END
+OrderByCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OrderByCollection.java
+END
+GetPhoneCallResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetPhoneCallResponse.java
+END
+GetUserConfigurationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetUserConfigurationResponse.java
+END
+UpdateDelegateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UpdateDelegateRequest.java
+END
+SortDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SortDirection.java
+END
+ExampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExampleTest.java
+END
+CreateAttachmentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateAttachmentResponse.java
+END
+Flags.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Flags.java
+END
+TimeSpanPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeSpanPropertyDefinition.java
+END
+FlaggedForAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FlaggedForAction.java
+END
+GetDomainSettingsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetDomainSettingsRequest.java
+END
+DeleteMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeleteMode.java
+END
+ServiceXmlDeserializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceXmlDeserializationException.java
+END
+GetRoomsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetRoomsRequest.java
+END
+EffectiveRights.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EffectiveRights.java
+END
+DnsClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DnsClient.java
+END
+ConfigurationSettingsBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConfigurationSettingsBase.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Attachment.java
+END
+AutodiscoverEndpoints.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverEndpoints.java
+END
+CreateAttachmentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateAttachmentException.java
+END
+PhoneNumberKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhoneNumberKey.java
+END
+ImAddressEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ImAddressEntry.java
+END
+CreateItemResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateItemResponse.java
+END
+ConflictType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConflictType.java
+END
+RulePredicateDateRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RulePredicateDateRange.java
+END
+MeetingCancellation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingCancellation.java
+END
+HangingTraceStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/HangingTraceStream.java
+END
+GetAttachmentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetAttachmentResponse.java
+END
+TaskMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TaskMode.java
+END
+CompleteName.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CompleteName.java
+END
+ByteArrayOSRequestEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ByteArrayOSRequestEntity.java
+END
+MemberStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MemberStatus.java
+END
+ServiceObjectPropertyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceObjectPropertyException.java
+END
+GetServerTimeZonesRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetServerTimeZonesRequest.java
+END
+ExtendedPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExtendedPropertyDefinition.java
+END
+MapiTypeConverterMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MapiTypeConverterMap.java
+END
+ComplexPropertyDefinitionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ComplexPropertyDefinitionBase.java
+END
+FolderChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderChange.java
+END
+ExecuteDiagnosticMethodRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodRequest.java
+END
+TimeChangeRecurrence.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeChangeRecurrence.java
+END
+GetDelegateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetDelegateRequest.java
+END
+EwsTraceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsTraceListener.java
+END
+FindFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FindFolderResponse.java
+END
+ArgumentOutOfRangeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ArgumentOutOfRangeException.java
+END
+ServiceRemoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceRemoteException.java
+END
+EwsSSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsSSLProtocolSocketFactory.java
+END
+AlternateMailboxCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AlternateMailboxCollection.java
+END
+RecurrenceRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RecurrenceRange.java
+END
+FolderPermissionLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderPermissionLevel.java
+END
+EWSHttpException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EWSHttpException.java
+END
+OccurrenceInfoCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OccurrenceInfoCollection.java
+END
+SyncFolderHierarchyRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SyncFolderHierarchyRequest.java
+END
+ApplyConversationActionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ApplyConversationActionRequest.java
+END
+SuggestionsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SuggestionsResponse.java
+END
+BasePropertySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/BasePropertySet.java
+END
+ExchangeServiceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExchangeServiceBase.java
+END
+FolderIdCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderIdCollection.java
+END
+OccurrenceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OccurrenceInfo.java
+END
+SyncFolderItemsScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SyncFolderItemsScope.java
+END
+RecurringAppointmentMasterId.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RecurringAppointmentMasterId.java
+END
+RemoveFromCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RemoveFromCalendar.java
+END
+RulePredicates.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RulePredicates.java
+END
+LegacyFreeBusyStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/LegacyFreeBusyStatus.java
+END
+GetRoomsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetRoomsResponse.java
+END
+AppointmentSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AppointmentSchema.java
+END
+TimeSpanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeSpanTest.java
+END
+PullSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PullSubscription.java
+END
+GetUserAvailabilityRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetUserAvailabilityRequest.java
+END
+MimeContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MimeContent.java
+END
+SearchFolderSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SearchFolderSchema.java
+END
+ResponseObjectsPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResponseObjectsPropertyDefinition.java
+END
+Suggestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Suggestion.java
+END
+ExchangeVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExchangeVersion.java
+END
+OutParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OutParam.java
+END
+Attendee.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Attendee.java
+END
+LegacyAvailabilityTimeZoneTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/LegacyAvailabilityTimeZoneTime.java
+END
+MoveCopyItemRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MoveCopyItemRequest.java
+END
+ICalendarActionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ICalendarActionProvider.java
+END
+OffsetBasePoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OffsetBasePoint.java
+END
+UserConfigurationDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UserConfigurationDictionary.java
+END
+EmailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EmailMessage.java
+END
+Conflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Conflict.java
+END
+MobilePhone.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MobilePhone.java
+END
+PostReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PostReply.java
+END
+SimplePropertyBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SimplePropertyBag.java
+END
+ContactSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ContactSource.java
+END
+WellKnownFolderName.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/WellKnownFolderName.java
+END
+ServiceResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceResponse.java
+END
+MapiTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MapiTypeConverter.java
+END
+ResponseObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResponseObject.java
+END
+StartTimeZonePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/StartTimeZonePropertyDefinition.java
+END
+PropertyDefinitionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PropertyDefinitionBase.java
+END
+NumberedRecurrenceRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/NumberedRecurrenceRange.java
+END
+ServiceResponseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceResponseException.java
+END
+GetAttachmentRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetAttachmentRequest.java
+END
+ExchangeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1323/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExchangeService.java
+END
+ExtendedProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExtendedProperty.java
+END
+DomainSettingName.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DomainSettingName.java
+END
+ConnectingIdType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConnectingIdType.java
+END
+ContactGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ContactGroup.java
+END
+HttpErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/HttpErrorException.java
+END
+IntPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IntPropertyDefinition.java
+END
+ContactsFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ContactsFolder.java
+END
+LegacyAvailabilityTimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/LegacyAvailabilityTimeZone.java
+END
+PagedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PagedView.java
+END
+TaskDelegationStatePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TaskDelegationStatePropertyDefinition.java
+END
+SimpleServiceRequestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SimpleServiceRequestBase.java
+END
+ItemSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemSchema.java
+END
+SubscriptionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SubscriptionBase.java
+END
+AutodiscoverError.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverError.java
+END
+PermissionCollectionPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PermissionCollectionPropertyDefinition.java
+END
+SyncResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SyncResponse.java
+END
+ExchangeCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExchangeCredentials.java
+END
+GetItemRequestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetItemRequestBase.java
+END
+FindItemsResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FindItemsResults.java
+END
+TimeZonePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeZonePropertyDefinition.java
+END
+ConversationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConversationAction.java
+END
+TimeZoneConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeZoneConversionException.java
+END
+IAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IAction.java
+END
+InvalidOperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/InvalidOperationException.java
+END
+RuleOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RuleOperation.java
+END
+GenericPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GenericPropertyDefinition.java
+END
+GetStreamingEventsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetStreamingEventsResponse.java
+END
+XmlElementNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/XmlElementNames.java
+END
+RulePredicateSizeRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RulePredicateSizeRange.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Task.java
+END
+MultiResponseServiceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MultiResponseServiceRequest.java
+END
+MeetingAttendeeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingAttendeeType.java
+END
+FormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FormatException.java
+END
+LazyMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/LazyMember.java
+END
+ConversationFlagStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConversationFlagStatus.java
+END
+MoveFolderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MoveFolderRequest.java
+END
+ResponseActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResponseActions.java
+END
+CalendarEventDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CalendarEventDetails.java
+END
+ProtocolConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ProtocolConnection.java
+END
+WorkingPeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/WorkingPeriod.java
+END
+ContainmentMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ContainmentMode.java
+END
+DeleteAttachmentRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeleteAttachmentRequest.java
+END
+DefaultExtendedPropertySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DefaultExtendedPropertySet.java
+END
+Grouping.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Grouping.java
+END
+GetUserAvailabilityResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetUserAvailabilityResults.java
+END
+AddDelegateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AddDelegateRequest.java
+END
+UpdateFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UpdateFolderResponse.java
+END
+EwsServiceXmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsServiceXmlWriter.java
+END
+MeetingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingMessage.java
+END
+Appointment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Appointment.java
+END
+ResolveNameSearchLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResolveNameSearchLocation.java
+END
+FolderPermissionReadAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderPermissionReadAccess.java
+END
+AttachmentCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AttachmentCollection.java
+END
+AlternatePublicFolderItemId.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AlternatePublicFolderItemId.java
+END
+FolderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FolderEvent.java
+END
+StringPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/StringPropertyDefinition.java
+END
+CreateItemRequestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateItemRequestBase.java
+END
+AbsoluteDateTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java
+END
+ComplexPropertyCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ComplexPropertyCollection.java
+END
+DeleteItemRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeleteItemRequest.java
+END
+ProtocolConnectionCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ProtocolConnectionCollection.java
+END
+StandardUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/StandardUser.java
+END
+ICreateComplexPropertyDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ICreateComplexPropertyDelegate.java
+END
+ItemChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemChange.java
+END
+CalendarFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CalendarFolder.java
+END
+MeetingResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingResponse.java
+END
+PhysicalAddressDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PhysicalAddressDictionary.java
+END
+DelegateInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DelegateInformation.java
+END
+InternetMessageHeaderCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/InternetMessageHeaderCollection.java
+END
+GetServerTimeZonesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetServerTimeZonesResponse.java
+END
+FindConversationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FindConversationRequest.java
+END
+Month.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Month.java
+END
+UserSettingError.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UserSettingError.java
+END
+ServiceObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceObject.java
+END
+DisconnectPhoneCallRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DisconnectPhoneCallRequest.java
+END
+ConnectionFailureCause.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ConnectionFailureCause.java
+END
+DelegateUserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DelegateUserResponse.java
+END
+UserId.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UserId.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Item.java
+END
+SubscribeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SubscribeResponse.java
+END
+MeetingRequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingRequestType.java
+END
+GenericItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GenericItemAttachment.java
+END
+AutodiscoverResponseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverResponseException.java
+END
+ImpersonatedUserId.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ImpersonatedUserId.java
+END
+ResponseObjectSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResponseObjectSchema.java
+END
+FindItemRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FindItemRequest.java
+END
+ItemIdWrapperList.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemIdWrapperList.java
+END
+EmailAddressCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EmailAddressCollection.java
+END
+UpdateItemRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/UpdateItemRequest.java
+END
+TasksFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TasksFolder.java
+END
+MeetingTimeZonePropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingTimeZonePropertyDefinition.java
+END
+IGetPropertyDefinitionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IGetPropertyDefinitionCallback.java
+END
+AutodiscoverResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverResponse.java
+END
+LogicalOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/LogicalOperator.java
+END
+ServiceRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceRequestException.java
+END
+ServiceValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ServiceValidationException.java
+END
+DeletedOccurrenceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DeletedOccurrenceInfo.java
+END
+CreateItemRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateItemRequest.java
+END
+Mailbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Mailbox.java
+END
+EWSConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EWSConstants.java
+END
+ArgumentNullException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ArgumentNullException.java
+END
+RefParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/RefParam.java
+END
+TimeZonePeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeZonePeriod.java
+END
+CalendarResponseObjectSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CalendarResponseObjectSchema.java
+END
+DictionaryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DictionaryProperty.java
+END
+ItemGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemGroup.java
+END
+AutodiscoverErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverErrorCode.java
+END
+CopyFolderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CopyFolderRequest.java
+END
+AcceptMeetingInvitationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AcceptMeetingInvitationMessage.java
+END
+EmailAddressDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EmailAddressDictionary.java
+END
+SubscribeToPushNotificationsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SubscribeToPushNotificationsRequest.java
+END
+AutodiscoverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverService.java
+END
+CalendarActionResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CalendarActionResults.java
+END
+IFileAttachmentContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IFileAttachmentContentHandler.java
+END
+AlternateId.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AlternateId.java
+END
+DictionaryEntryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/DictionaryEntryProperty.java
+END
+ItemWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemWrapper.java
+END
+WebClientUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/WebClientUrl.java
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Schema.java
+END
+PropertySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PropertySet.java
+END
+AutodiscoverLocalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AutodiscoverLocalException.java
+END
+ICustomXmlSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ICustomXmlSerialization.java
+END
+CreateUserConfigurationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CreateUserConfigurationRequest.java
+END
+EmailAddressKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EmailAddressKey.java
+END
+TimeSuggestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TimeSuggestion.java
+END
+AbsoluteDayOfMonthTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AbsoluteDayOfMonthTransition.java
+END
+AppointmentOccurrenceId.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AppointmentOccurrenceId.java
+END
+Sensitivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Sensitivity.java
+END
+GetFolderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GetFolderResponse.java
+END
+OutlookUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OutlookUser.java
+END
+SuppressReadReceipt.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SuppressReadReceipt.java
+END
+IDisposable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IDisposable.java
+END
+TokenCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/TokenCredentials.java
+END
+IFuncDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IFuncDelegate.java
+END
+MeetingRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MeetingRequest.java
+END
+GroupMemberPropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/GroupMemberPropertyDefinition.java
+END
+MoveCopyFolderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/MoveCopyFolderRequest.java
+END
+ItemCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ItemCollection.java
+END
+Conversation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/Conversation.java
+END
+CalendarEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CalendarEvent.java
+END
+ITraceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ITraceListener.java
+END
+FindItemResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/FindItemResponse.java
+END
+OutlookProtocolType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OutlookProtocolType.java
+END
+SyncFolderItemsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SyncFolderItemsRequest.java
+END
+ResponseMessageSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ResponseMessageSchema.java
+END
+OofExternalAudience.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/OofExternalAudience.java
+END
+CancelMeetingMessageSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/CancelMeetingMessageSchema.java
+END
+PostItemSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/PostItemSchema.java
+END
+SyncFolderHierarchyResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SyncFolderHierarchyResponse.java
+END
+AlternateIdBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/AlternateIdBase.java
+END
+ExecuteDiagnosticMethodResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodResponse.java
+END
+SetUserOofSettingsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/SetUserOofSettingsRequest.java
+END
+EwsUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java
+END
+IAutodiscoverRedirectionUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hoduflu/!svn/ver/1322/trunk/ews-api/src/main/java/microsoft/exchange/webservices/data/IAutodiscoverRedirectionUrl.java
+END
