@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<soap:Header>
+		<t:ServerVersionInfo MajorVersion="8"
+			MinorVersion="3" MajorBuildNumber="159" MinorBuildNumber="2"
+			Version="Exchange2007_SP1" xmlns:t="http://schemas.microsoft.com/exchange/services/2006/types" />
+	</soap:Header>
+	<soap:Body>
+		<m:FindItemResponse
+			xmlns:t="http://schemas.microsoft.com/exchange/services/2006/types"
+			xmlns:m="http://schemas.microsoft.com/exchange/services/2006/messages">
+			<m:ResponseMessages>
+				<m:FindItemResponseMessage ResponseClass="Success">
+					<m:ResponseCode>NoError</m:ResponseCode>
+					<m:RootFolder TotalItemsInView="1"
+						IncludesLastItemInRange="true">
+						<t:Items>
+							<t:Message>
+								<t:ItemId
+									Id="AAMkADRkZjdiZGFkLTA4MTgtNDJlZS05NTA1LWEzYWMwZjcxNmY3OQBGAAAAAADMmfbnee8aR4u3GPsGWfWRBwBBOKc1RcdFT6FnDYZnMkJRAAADBwy7AAChqxAYCu3xR4nu5psf0CDgAMAbkIx7AAA="
+									ChangeKey="CQAAABYAAAChqxAYCu3xR4nu5psf0CDgAMAbkkwE" />
+								<t:ParentFolderId
+									Id="AAMkADRkZjdiZGFkLTA4MTgtNDJlZS05NTA1LWEzYWMwZjcxNmY3OQAuAAAAAADMmfbnee8aR4u3GPsGWfWRAQBBOKc1RcdFT6FnDYZnMkJRAAADBwy7AAA="
+									ChangeKey="AQAAAA==" />
+								<t:ItemClass>IPM.Note</t:ItemClass>
+								<t:Subject>Test EWS</t:Subject>
+								<t:Sensitivity>Normal</t:Sensitivity>
+								<t:DateTimeReceived>2011-09-02T15:32:45Z</t:DateTimeReceived>
+								<t:Size>1557</t:Size>
+								<t:Importance>Normal</t:Importance>
+								<t:IsSubmitted>false</t:IsSubmitted>
+								<t:IsDraft>false</t:IsDraft>
+								<t:IsFromMe>false</t:IsFromMe>
+								<t:IsResend>false</t:IsResend>
+								<t:IsUnmodified>true</t:IsUnmodified>
+								<t:DateTimeSent>2011-09-02T15:32:42Z</t:DateTimeSent>
+								<t:DateTimeCreated>2011-09-02T15:32:45Z</t:DateTimeCreated>
+								<t:DisplayCc />
+								<t:DisplayTo>Test</t:DisplayTo>
+								<t:HasAttachments>false</t:HasAttachments>
+								<t:Culture>fr-FR</t:Culture>
+								<t:EffectiveRights>
+									<t:CreateAssociated>false</t:CreateAssociated>
+									<t:CreateContents>false</t:CreateContents>
+									<t:CreateHierarchy>false</t:CreateHierarchy>
+									<t:Delete>true</t:Delete>
+									<t:Modify>true</t:Modify>
+									<t:Read>true</t:Read>
+								</t:EffectiveRights>
+								<t:LastModifiedTime>2011-09-02T15:32:45Z</t:LastModifiedTime>
+								<t:Sender>
+									<t:Mailbox>
+										<t:Name>test.test@test.com</t:Name>
+									</t:Mailbox>
+								</t:Sender>
+								<t:ConversationIndex>AcxphZBQjukzC+/0R9m/MX5ONIcmcw==</t:ConversationIndex>
+								<t:ConversationTopic>Test EWS</t:ConversationTopic>
+								<t:From>
+									<t:Mailbox>
+										<t:Name>Bla</t:Name>
+									</t:Mailbox>
+								</t:From>
+								<t:InternetMessageId>&lt;CAPK2ZmS_AZJfUna+TE+P7ve8JiydvfrtVD6aCtFgOh-wPTgqrw@mail.gmail.com&gt;</t:InternetMessageId>
+								<t:IsRead>true</t:IsRead>
+								<t:ReceivedBy>
+									<t:Mailbox>
+										<t:Name>Test</t:Name>
+									</t:Mailbox>
+								</t:ReceivedBy>
+								<t:ReceivedRepresenting>
+									<t:Mailbox>
+										<t:Name>Test</t:Name>
+									</t:Mailbox>
+								</t:ReceivedRepresenting>
+							</t:Message>
+						</t:Items>
+					</m:RootFolder>
+				</m:FindItemResponseMessage>
+			</m:ResponseMessages>
+		</m:FindItemResponse>
+	</soap:Body>
+</soap:Envelope>
