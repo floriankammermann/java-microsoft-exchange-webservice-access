@@ -102,6 +102,11 @@ public class InboxSummaryTest {
         httpClientPolicy.setAllowChunking(false);
         httpClientPolicy.setReceiveTimeout(32000);
         http.setClient(httpClientPolicy);
+        
+        AuthorizationPolicy ap = new AuthorizationPolicy();
+        ap.setUserName("test");
+        ap.setPassword("test");
+        http.setAuthorization(ap);
 
      // Create a trust manager that does not validate certificate chains
     	TrustManager[] trustAllCerts = new TrustManager[] { 
