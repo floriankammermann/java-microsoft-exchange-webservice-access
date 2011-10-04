@@ -103,6 +103,7 @@ public class InboxSummaryTest {
         httpClientPolicy.setReceiveTimeout(32000);
         http.setClient(httpClientPolicy);
         
+        // this is used for the basic authentication
         AuthorizationPolicy ap = new AuthorizationPolicy();
         ap.setUserName("test");
         ap.setPassword("test");
